@@ -11,7 +11,7 @@
 ## **About Me**
 
 <p align="left">
-Constantly juggling between debugging code and debugging life..^_~
+Constantly juggling between debugging code and debugging life..^_~<br>
 - Open for new opportunities <br>
 </p>
 
