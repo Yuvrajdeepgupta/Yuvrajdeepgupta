@@ -16,8 +16,8 @@
 - Open for new opportunities <br>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3b/ab/16/3bab1644886a6094080918ab88d52d5c.gif" width="300">
+<p align="left">
+  <img src="https://i.pinimg.com/originals/3b/ab/16/3bab1644886a6094080918ab88d52d5c.gif" width="200">
 </p>
 
 ## **Skills**
