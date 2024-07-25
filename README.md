@@ -16,9 +16,7 @@
 - Open for new opportunities <br>
 </p>
 
-<p align="left">
-  <img src="https://i.pinimg.com/originals/3b/ab/16/3bab1644886a6094080918ab88d52d5c.gif" width="200">
-</p>
+<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
 
 ## **Skills**
 
