@@ -4,11 +4,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;Always+learning+new+things;"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvrajdeepgupta&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
 ## **About Me**
 
 <p align="left">
-- Passionate Full-Stack Developer <br>
-- Currently learning and exploring new technologies <br>
+Constantly juggling between debugging code and debugging life..^_~
 - Open for new opportunities <br>
 </p>
 
@@ -43,13 +46,6 @@
   <a href="https://github.com/Yuvrajdeepgupta"><img src="https://img.shields.io/badge/GitHub-Yuvrajdeepgupta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/yuvrajdeep/"><img src="https://img.shields.io/badge/LinkedIn-Yuvrajdeep-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/invite/aXsStHguEP"><img src="https://img.shields.io/badge/Discord-Yuvrajdeep-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
-
----
-
-## **Profile Views**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvrajdeepgupta&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 <p align="center">
