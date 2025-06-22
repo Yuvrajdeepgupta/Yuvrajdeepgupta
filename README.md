@@ -38,6 +38,11 @@
   - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### 🌙 Dark Theme
+![LeetCode Stats – Dark](https://leetcard.jacoblin.cool/gupta__ji?theme=dark&font=Fira%20Code&extension=activity)
+
+---
+
 ## **Let's Connect!**
 <p align="left">
   <a href="https://github.com/Yuvrajdeepgupta"><img src="https://img.shields.io/badge/GitHub-Yuvrajdeepgupta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
