@@ -38,7 +38,7 @@
   - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌙 Dark Theme
+### 📊 My LeetCode Stats
 ![LeetCode Stats – Dark](https://leetcard.jacoblin.cool/gupta__ji?theme=dark&font=Fira%20Code&extension=activity)
 
 ---
