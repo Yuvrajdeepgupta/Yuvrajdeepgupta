@@ -1,5 +1,8 @@
 <h1 align="center"><b>Hi, I'm Yuvraj Deep Gupta</b> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="35"></h1>
 
+![DSA Problems](https://img.shields.io/badge/DSA%20Solved-700%2B-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white)
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;Always+learning+new+things;"></a>
 </p>
