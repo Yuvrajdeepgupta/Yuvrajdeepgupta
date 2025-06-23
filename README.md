@@ -46,7 +46,7 @@
   - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
-![DSA Problems](https://img.shields.io/badge/DSA%20Solved-700%2B-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white)
+![DSA Problems](https://img.shields.io/badge/DSA%20Solved-200%2B-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ## 📈 GitHub Stats
 <p align="center">
