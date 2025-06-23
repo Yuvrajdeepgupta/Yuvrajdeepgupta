@@ -44,9 +44,9 @@
   - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
-  ## 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvrajdeepgupta&show_icons=true&theme=tokyonight" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvrajdeepgupta&show_icons=true&theme=tokyonight" width="420"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuvrajdeepgupta&theme=tokyonight" width="450"/>
 </p>
 
