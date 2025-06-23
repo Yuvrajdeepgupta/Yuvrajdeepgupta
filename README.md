@@ -47,6 +47,7 @@
   ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvrajdeepgupta&show_icons=true&theme=tokyonight" width="450"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuvrajdeepgupta&theme=tokyonight" width="400"/>
 </p>
 
