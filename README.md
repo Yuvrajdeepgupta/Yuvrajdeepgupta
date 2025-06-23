@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi, I'm Yuvraj Deep Gupta</b> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="35"></h1>
 
-![DSA Problems](https://img.shields.io/badge/DSA%20Solved-700%2B-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 <p align="center">
@@ -47,6 +46,8 @@
   - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
+![DSA Problems](https://img.shields.io/badge/DSA%20Solved-700%2B-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white)
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvrajdeepgupta&show_icons=true&theme=tokyonight" width="420"/>
