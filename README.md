@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yuvrajdeepgupta&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
-## **About Me**
+## **🙋‍♂️About Me**
 
 <p align="left">
 - Constantly juggling between debugging code and debugging life..^_~<br>
@@ -18,7 +18,7 @@
 - Open for new opportunities <br>
 </p>
 
-## **Skills**
+## **🛠️Skills**
 
 - **Languages**:
   - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
