@@ -68,12 +68,14 @@
   <a href="https://www.linkedin.com/in/yuvrajdeep/">
     <img src="https://img.shields.io/badge/LinkedIn-Yuvrajdeep-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discord.com/invite/aXsStHguEP">
-    <img src="https://img.shields.io/badge/Discord-Yuvrajdeep-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  <br>
   <a href="https://leetcode.com/u/gupta__ji/">
     <img src="https://img.shields.io/badge/LeetCode-gupta__ji-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
+   <a href="https://discord.com/invite/aXsStHguEP">
+    <img src="https://img.shields.io/badge/Discord-Yuvrajdeep-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <br>
   <a href="https://www.geeksforgeeks.org/user/yuvrajdeep112/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-yuvrajdeep112-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG">
   </a>
